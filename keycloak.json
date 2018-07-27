@@ -1,0 +1,8 @@
+{
+    "realm": "WasteCo",
+    "auth-server-url": "https://www.vuefy.com/auth",
+    "ssl-required": "external",
+    "resource": "nodejs-login-app",
+    "public-client": true,
+    "confidential-port": 0
+  }
